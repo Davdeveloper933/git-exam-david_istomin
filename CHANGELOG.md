@@ -12,13 +12,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - new functionality by calling echo test in test.php
 
-## [0.1.1] - 2021-06-29-00:47:20
+## [0.1.1](https://github.com/Davdeveloper933/git-exam-david_istomin/tree/0.1.1) - 2021-06-29-00:47:20
 
 ### Fixed
 
 - fixed error in index.php file by adding function phpinfo();
 
-## [0.1.0] - 2021-06-29-00:29:28
+## [0.1.0](https://github.com/Davdeveloper933/git-exam-david_istomin/tree/0.1.0) - 2021-06-29-00:29:28
 
 ### Added
 
