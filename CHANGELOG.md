@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- .gitignore
+- .gitignore with ignore rules.
+  It can be changed depending on the project requirements
 - CHANGELOG.md
 - index.php
