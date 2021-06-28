@@ -19,3 +19,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   It can be changed depending on the project requirements
 - CHANGELOG.md
 - index.php
+
+
