@@ -18,7 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - fixed error in index.php file by adding function phpinfo();
 
-## [0.1.0] - 2021-06-29-00:29:28
+## [0.1.0](https://github.com/Davdeveloper933/git-exam-david_istomin/tree/0.1.0) - 2021-06-29-00:29:28
 
 ### Added
 
